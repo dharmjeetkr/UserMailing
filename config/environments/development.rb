@@ -49,7 +49,7 @@ config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
 	port: 587,
 	domain:"gmail.com",
 	user_name: "dharmjeetkr@gmail.com",         #this is for sender name and pwd
-	password:"9934945342",
+	password:"pwd...",
 	authentication: "plain",
 	enable_starttls_auto: true
     }
